@@ -1,6 +1,9 @@
 # Anti-Forensic-Techniques
 
 
+# linux_purge.sh :
+    • Clear Logs of a linux endpoint
+
 # Wipe_drives.bat :
     • Wipe free spaces (old deleted files) from the drives
 
