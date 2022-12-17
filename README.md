@@ -1,5 +1,8 @@
 # Anti-Forensic-Techniques
 
+# Clear_Event_Viewer_Logs.bat :
+    • Clear Event logs in windows endpoint 
+
 # Clear_traces.bat : 
     • Clear application history
     • Clear browser history
