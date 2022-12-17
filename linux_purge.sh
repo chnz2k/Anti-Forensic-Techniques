@@ -1,6 +1,11 @@
 #!/usr/bin/env bash
 
 sudo apt install secure-delete
+#srm : It is a secure rm that is used to erase files by overwriting their hard disk space and deleting them.
+#sfill : It is used to overwrite free space on the hard disk.
+#sswap : It is used to overwrite swap space.
+#sdmem : It is used to wipe the RAM Once secure-delete is installed.
+
 
 # copy the script to a specific folder and edit the crontab for startup execution : "@reboot bash linux_purge.sh"
 
