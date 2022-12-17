@@ -106,4 +106,5 @@
     • Change NTP (time) server to pool.ntp.org
     • Disable Reserved Storage for updates
     • Run script on start-up [EXPERIMENTAL]
+    Source : https://github.com/undergroundwires/privacy.sexy
 
