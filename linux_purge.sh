@@ -2,6 +2,8 @@
 
 sudo apt install secure-delete
 
+# copy the script to a specific folder and edit the crontab for startup execution : "@reboot bash linux_purge.sh"
+
 #change network interface here
 inter="wlp4s0"
 
