@@ -1,7 +1,11 @@
 # Anti-Forensic-Techniques
 
+
+# Wipe_drives.bat :
+    • Wipe free spaces (old deleted files) from the drives
+
 # Clear_Event_Viewer_Logs.bat :
-    • Clear Event logs in windows endpoint 
+    • Clear Event logs in windows endpoint
 
 # Clear_traces.bat : 
     • Clear application history
